@@ -348,7 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-src/MongoDatabaseTools/.idea/.idea.MongoDatabaseTools/.idea/encodings.xml
-src/MongoDatabaseTools/.idea/.idea.MongoDatabaseTools/.idea/indexLayout.xml
-src/MongoDatabaseTools/.idea/.idea.MongoDatabaseTools/.idea/misc.xml
-src/MongoDatabaseTools/.idea/.idea.MongoDatabaseTools/.idea/vcs.xml
+
+# Rider
+# Rider auto-generates .iml files, and contentModel.xml
+**/.idea/**/*.iml
+**/.idea/**/contentModel.xml
+**/.idea/**/modules.xml
