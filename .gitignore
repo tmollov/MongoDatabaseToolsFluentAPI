@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+src/MongoDatabaseTools/.idea/.idea.MongoDatabaseTools/.idea/encodings.xml
+src/MongoDatabaseTools/.idea/.idea.MongoDatabaseTools/.idea/indexLayout.xml
+src/MongoDatabaseTools/.idea/.idea.MongoDatabaseTools/.idea/misc.xml
+src/MongoDatabaseTools/.idea/.idea.MongoDatabaseTools/.idea/vcs.xml
