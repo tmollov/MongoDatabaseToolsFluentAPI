@@ -5,7 +5,8 @@ This repository contains **Fluent API** that runs given **MongoDB Database Tool*
 ## Project Description
 
 **ExampleApp** project is project created for testing the Fluent Api.  
-It uses [System.CommandLine.DragonFruit](https://github.com/dotnet/command-line-api/blob/main/docs/Your-first-app-with-System-CommandLine-DragonFruit.md) to collect arguments and gives them to Main method in Program.cs file.
+It uses [System.CommandLine.DragonFruit](https://github.com/dotnet/command-line-api/blob/main/docs/Your-first-app-with-System-CommandLine-DragonFruit.md) to collect arguments and gives them to Main method in Program.cs file.  
+Also __SeedData method__ runs random data generator [mgodatagen](https://github.com/feliixx/mgodatagen) with configuration file `database_config.json` that generates 1 000 000 documents in the database.
 
 **ExampleApp.Data** is project created to connect to database with ready-to-use code.
 
