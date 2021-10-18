@@ -1,0 +1,29 @@
+[
+    {
+        "database": "test",
+        "collection": "test",
+        "count": 1000000,
+        "content": {
+            "field1": {
+                "type": "string",
+                "minLength": 500,
+                "maxLength" : 500
+            },
+            "field2": {
+                "type": "string",
+                "minLength": 500,
+                "maxLength" : 500
+            },
+            "field3": {
+                "type": "string",
+                "minLength": 500,
+                "maxLength" : 500
+            },
+            "field4": {
+                "type": "string",
+                "minLength": 500,
+                "maxLength" : 500
+            }
+        }
+    }
+]
