@@ -66,7 +66,7 @@ await MongoUtilities
 ```
 
 Currently it is configured for Linux systems.  
-If you want to run in Non-Linux enviroment you can modify **MongoTools method** in **ProcessConstants class** to return path to given utility.
+If you want to run in Non-Linux enviroment you can modify **MongoTools method** in **ProcessConstants class** to return path to given utility in your machine.
 
 ## How to Run ExampleApp project
 
