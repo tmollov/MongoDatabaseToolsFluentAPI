@@ -1,4 +1,4 @@
-namespace FluentApi.Interfaces
+namespace FluentApi.Interfaces.Options
 {
     /// <summary>
     /// Interface for verbosity options of MongoDB utilities.

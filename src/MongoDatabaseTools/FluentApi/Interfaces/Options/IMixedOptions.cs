@@ -1,4 +1,4 @@
-namespace FluentApi.Interfaces
+namespace FluentApi.Interfaces.Options
 {
     /// <summary>
     /// Interface for mixed options of MongoDB utilities.
