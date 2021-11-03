@@ -1,7 +1,7 @@
-using FluentApi.Common.Enums;
-
 namespace FluentApi.Interfaces
 {
+    using FluentApi.Common.Enums;
+
     /// <summary>
     /// Interface for bsondump utility.
     /// </summary>

@@ -1,5 +1,6 @@
 using FluentApi.Common;
 using FluentApi.Common.Enums;
+using FluentApi.Interfaces.Options;
 
 namespace FluentApi
 {

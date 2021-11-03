@@ -1,3 +1,5 @@
+using FluentApi.Interfaces.Options;
+
 namespace FluentApi.Interfaces
 {
     /// <summary>

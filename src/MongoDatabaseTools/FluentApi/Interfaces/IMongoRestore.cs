@@ -1,5 +1,7 @@
 namespace FluentApi.Interfaces
 {
+    using FluentApi.Interfaces.Options;
+
     /// <summary>
     /// Interface for mongorestore utility.
     /// </summary>
