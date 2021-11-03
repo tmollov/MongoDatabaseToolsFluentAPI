@@ -1,7 +1,7 @@
-using FluentApi.Interfaces.Options;
-
 namespace FluentApi.Interfaces
 {
+    using FluentApi.Interfaces.Options;
+
     /// <summary>
     /// Interface for mongo utility.
     /// </summary>
@@ -13,6 +13,7 @@ namespace FluentApi.Interfaces
         /// <param name="uri">A mongodb uri connection string.</param>
         /// <returns><see cref="IMongoUtility"/>.</returns>
         IMongoUtility Uri(string uri);
+
         /// <summary>
         /// Number of collections to dump in parallel.
         /// </summary>
